@@ -8,8 +8,8 @@ const thoughtController = {
                 res.json(thoughtData)})
             .catch(err => res.status(400).json(err));
     },
-    getThoughtById({ params, body }, res) {
-        Thought.findById({ _id: params.id }, body )
+    getThoughtById({ params }, res) {
+        Thought.findById({ _id: params.thoughtId })
             .then(thoughtData => {
                 if (!thoughtData) {
                     res.status(404).json({ message: 'No thought with this id was found!' })
