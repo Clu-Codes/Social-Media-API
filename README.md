@@ -20,7 +20,7 @@ Social Media API is a simple blueprint for the creation of many social media app
 This application is under the MIT license.
 
 ## Walkthrough Video
-https://drive.google.com/file/d/1lcVbomp_sfsGgOYk0jtUO-5aEMgaYAGH/view
+https://drive.google.com/file/d/1EFV6lCvfz2B_ogrw8cx1TO_blwNi7KTg/view?usp=sharing
 
 ## Questions
 Github: https://www.github.com/Clu-Codes
